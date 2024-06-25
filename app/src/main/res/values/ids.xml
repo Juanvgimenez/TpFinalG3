@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="logo" type="id" />
+    <item name="edit_text_usuario" type="id" />
+    <item name="edit_text_contrasena" type="id" />
+    <item name="checkbox_recordar" type="id" />
+    <item name="btn_ingresar" type="id" />
+    <item name="text_view_olvido_contrasena" type="id" />
+    <item name="checkbox_mantener_sesion" type="id" />
+    <item name="text_view_recuperar_contrasena" type="id" />
+    <item name="edit_text_correo" type="id" />
+    <item name="boton_enviar_correo" type="id" />
+    <item name="boton_volver_login" type="id" />
+    <item name="spinner_materias" type="id" />
+    <item name="spinner_llamado" type="id" />
+    <item name="boton_enviar" type="id" />
+</resources>

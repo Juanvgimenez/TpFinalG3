@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TPFINAL</string>
+    <string-array name="tipo_documento">
+        <item>DNI</item>
+        <item>Pasaporte</item>
+        <item>CUIL</item>
+    </string-array>
+    <string name="title_activity_email">EmailActivity</string>
+</resources>

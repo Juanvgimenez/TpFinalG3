@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inscripcion_examenes"
+        android:title="Inscripción a Exámenes"/>
+    <item
+        android:id="@+id/mis_inscripciones"
+        android:title="Mis Inscripciones"/>
+    <item
+        android:id="@+id/perfil_alumno"
+        android:title="Perfil Alumno"/>
+    <item
+        android:id="@+id/action_option3"
+        android:title="Enviar un email" />
+    <item
+        android:id="@+id/apis"
+        android:title="APIs"/>
+    <item
+        android:id="@+id/menu_cerrar_sesion"
+        android:title="Cerrar sesión" />
+</menu>
